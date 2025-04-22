@@ -1,0 +1,1 @@
+# camera_traps_ai4e_workshop
